@@ -8,10 +8,14 @@ To write a Python program that calculates the **sum of all elements** in a list.
 2. Use Python’s built-in `sum()` function to calculate the total.
 3. Print the result.
 
-## 🧾 Program
+## 🧾 Program:
 
-Add code here
+<img width="240" height="116" alt="image" src="https://github.com/user-attachments/assets/2fa57121-ad3c-493c-9408-b6f837815850" />
 
-## Output
 
-## Result
+## Output:
+<img width="268" height="150" alt="image" src="https://github.com/user-attachments/assets/2a2f6075-c4a4-46d7-bf5d-96e57f39f20d" />
+
+
+## Result:
+Thus a Python program that calculates the sum of all elements in a list is created.
